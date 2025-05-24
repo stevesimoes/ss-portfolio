@@ -203,7 +203,7 @@ h1 {
   font-size: 3.5em;
   margin-bottom: .75em;
   text-align: center;
-  color: #939393;
+  /*color: #939393;*/
 }
 /*font: bold calc(.025 * (100vw)) 'Arial', sans-serif;*/
 
